@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: flex-end;
 
-  background-color: #8d8d99;
+  background-color: #09090a;
   width: 400px;
   height: 600px;
   border-radius: 1em;
@@ -18,27 +18,33 @@
 }
 
 .buttons button {
+  font-weight: bold;
   width: 3em;
   height: 3em;
   font-size: 1.5em;
   border: none;
   border-radius: 2em;
   margin: 0 0.5em 0.5em;
+  color: #fff;
 }
 
 .visor {
   width: 100%;
   height: 30%;
-  background-color: #fff;
-  color: #000;
 
+  color: #fff;
   border-radius: 1em;
+
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: end;
+  word-break: break-all;
+  overflow-y: hidden;
 }
 .visor strong {
   font-size: 5em;
+  margin-right: 0.1em;
 }
 
 .color {
@@ -49,9 +55,19 @@
   background-color: rgb(204, 133, 0);
 }
 
+.darkGray {
+  background-color: #323238;
+}
+.darkGray:hover {
+  background-color: #1e1e20;
+}
 .gray {
-  background-color: rgb(184, 184, 184);
+  background-color: #c4c4cc;
+  color: #000 !important;
 }
 .gray:hover {
-  background-color: gray;
+  background-color: #bbbbc0;
+}
+.buttonLargo {
+  width: 7.2em !important;
 }
