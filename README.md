@@ -3,7 +3,7 @@ Um Spa(Single Page Application) que implementa uma calculadora
 
 Criado com React e TypeScipt e iniciado com VITE
 
-Github pages: [https://lucashenriquesouza.github.io/Calculadora/)
+[Github pages](https://lucashenriquesouza.github.io/Calculadora/)
 
 ## Característica:
 
@@ -12,7 +12,12 @@ Github pages: [https://lucashenriquesouza.github.io/Calculadora/)
 - Baseado no design da calculadora da APPLE.
 - com todas as funcionalidades de uma calculadora simples .
 
+## Tecnologias 
 
+- Vite
+- React.js
+- TypeScript
+- CSS
 
 ## Referências e Inspirações:
 
