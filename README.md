@@ -3,7 +3,7 @@ Um Spa(Single Page Application) que implementa uma calculadora
 
 Criado com React e TypeScipt e iniciado com VITE
 
-[Github pages](https://lucashenriquesouza.github.io/Calculadora/)
+[Github pages](https://lucasdesouza-dev.github.io/Calculadora/)
 
 ## Característica:
 
